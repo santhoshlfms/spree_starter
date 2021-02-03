@@ -107,6 +107,8 @@ gem 'spree', '~> 4.2.0.rc4'
 gem 'spree_gateway', '~> 3.9'
 gem 'spree_auth_devise', '~> 4.3'
 gem 'spree_i18n', '~> 5.0'
+gem 'spree_braintree_vzero', '~> 3.5'
+
 
 # Sentry Client
 gem 'sentry-raven'
